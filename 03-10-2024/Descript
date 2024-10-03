@@ -1,0 +1,3 @@
+Today's work
+1. Read and understood Ch 12 of the code book.
+Summary: This chapter was fun . It laid out the history and working of 'n' bit architecture , starting from the multiples of 3 with 2^(n) and eventually moving on to the now widely used 2^(n) achitechture used in most computers now. It gave an understanding of the concept of bytes and how hexadecimal and quaternary number systems are used to represent it in shorter notations. The next chapter, ASCII and More seems v interestin.
